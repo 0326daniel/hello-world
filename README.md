@@ -1,2 +1,2 @@
 # hello-world
-for saying hello to the world
+its your boy daniel park tryna get started with things.
